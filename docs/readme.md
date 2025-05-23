@@ -22,6 +22,7 @@
 - **Python**
 - **Java** (Eclipse IDE 使用経験)
 - **PowerShell** (Active Directory 管理)
+- **PowerAutomate**
 
 ### フレームワーク等
 
